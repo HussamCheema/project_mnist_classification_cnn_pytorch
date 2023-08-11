@@ -1,0 +1,2 @@
+# project_mnist_classification_cnn_pytorch
+MNIST Classification using MNIST
